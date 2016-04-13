@@ -489,6 +489,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator. :large_orange_diamond:
 
 ##### Image
+* [PhotoCropEditor](https://github.com/sprint84/PhotoCropEditor) - An open source iOS framework to crop images in Swift.
  * [GPU Image](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing.
  * [UIImage DSP](https://github.com/gdawg/uiimage-dsp) - IOS UIImage processing functions using the vDSP/Accelerate framework for speed.
  * [QR Code Scanner](http://www.appcoda.com/qr-code-ios-programming-tutorial/) - QR Code implementation.
